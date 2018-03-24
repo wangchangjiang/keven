@@ -1,6 +1,6 @@
 {
-    "name": "wangchangjiang/tomato",
-    "description": "keven com !",
+    "name": "wangchangjiang/conch",
+    "description": "conch com !",
     "type": "library",
     "require": {
         "yiisoft/yii2": "2.0",
@@ -16,7 +16,7 @@
     "minimum-stability": "dev",
 	"autoload": {
         "psr-4": {
-            "Tomato\\": "src"
+            "Conch\\": "src"
         }
     }
 }

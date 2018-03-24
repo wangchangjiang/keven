@@ -1,0 +1,10 @@
+{
+    "name": "keven/tomato",
+    "description": "keven com !",
+    "type": "library",
+    "require": {
+        "yiisoft/yii2": "2.0"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
